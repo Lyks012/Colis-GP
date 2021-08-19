@@ -1,0 +1,43 @@
+.logo-img{
+    height: 46px;
+    width: 46px;
+}
+
+.bg-overlay {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 350px;
+    padding-top: 50px;
+}
+
+.worldwideDeliveryImage{
+    background: linear-gradient(rgba(63, 73, 62, 0.356), rgba(8, 46, 11, 0.863)), url("../images/worldwide-delivery2.jpg");
+}
+.searchImage{
+    background: linear-gradient(rgba(63, 73, 62, 0.356), rgba(8, 46, 11, 0.863)), url("../images/searchIllustrationImage.jpg");
+    background-repeat: no-repeat;
+}
+
+.small-image{
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+}
+
+.medium-image{
+    display: inline-block;
+    width : 90px;
+    height: 90px;
+}
+
+body{
+    font-family: 'Josefin Sans';
+}
+
+.searchInput{
+    border: none;
+    border-bottom: 2px solid;
+    background: inherit;
+}
